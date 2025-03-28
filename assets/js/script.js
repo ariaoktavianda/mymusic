@@ -20,7 +20,7 @@ const musicData = [
     year: 2014,
     artist: 'Boys Noize',
     musicPath: './assets/music/alarm.mp3',
-  }
+  },
 ];
 
 /** add eventListnere on all elements that are passed **/
